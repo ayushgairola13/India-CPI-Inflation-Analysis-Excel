@@ -41,7 +41,9 @@ Compared oil price movements with CPI trends to identify potential economic corr
 - Investigated the relationship between oil prices and CPI movements.
 
 ## Project Files
-– Dataset used for analysis : https://drive.google.com/file/d/1sMpE--eLcA5s0C1V8liLEaqNgUW0AVSe/view?usp=sharing
+– Dataset used for analysis :
+https://drive.google.com/file/d/1sMpE--eLcA5s0C1V8liLEaqNgUW0AVSe/view?usp=sharing
 
-India_CPI_Inflation_Analysis.xlsx : PK
+- Excel Analysis & Dashboard :
+https://github.com/ayushgairola13/India-CPI-Inflation-Analysis-Excel/blob/main/India%20CPI%20Inflation.xlsx
 
